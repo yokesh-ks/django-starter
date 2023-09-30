@@ -43,3 +43,9 @@ Running this command in console `django-admin startproject myfirstproject` will 
 To create a new app, Run `django-admin startapp myapp` which will create a new sub-folder under your parent directory which will have views.py where you can write your own custom views for your HTML templates
 
 ---
+
+For Swagger Docs
+
+https://github.com/axnsan12/drf-yasg?tab=readme-ov-file#id9
+
+---
