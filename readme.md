@@ -24,6 +24,12 @@ pip install Django
 python -m django startproject django_starter
 ```
 
+- Database setup
+
+```
+ python manage.py migrate
+```
+
 - Run Your Project
 
 ```
